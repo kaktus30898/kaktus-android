@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kaktus</string>
+    <string name="balance">Остаток баланса</string>
+    <string name="money_value">%1.2f ₽</string>
+    <string name="changes">Последние записи об изменениях баланса</string>
+    <string name="add_change">Новая трата</string>
+    <string name="description">Описание</string>
+    <string name="create">Создать</string>
+    <string name="save">Сохранить</string>
+    <string name="value">Величина</string>
+    <string name="new_change_title">Новое изменение бюджета</string>
+    <string name="change_title">Изменение бюджета</string>
+    <string name="delete">Удалить</string>
+</resources>
